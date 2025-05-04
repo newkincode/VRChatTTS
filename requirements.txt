@@ -1,0 +1,10 @@
+gTTS
+pydub
+requests
+pyaudio
+sounddevice
+numpy
+soundfile
+python-osc
+torch
+TTS
